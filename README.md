@@ -1,4 +1,4 @@
-- 👋 Hi, I’m trytotest13
+- 👋 Hi, I’m trytotest
 - 👀 I’m interested in building project
 - 🌱 I’m currently learning Ai
 - 💞️ I’m looking to collaborate on 
