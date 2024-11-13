@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @trytotest13
-- 👀 I’m interested in ...
+- 👋 Hi, I’m trytotest13
+- 👀 I’m interested in building project
 - 🌱 I’m currently learning Ai
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://x.com/TryToTest13
